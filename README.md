@@ -8,7 +8,6 @@ I do much stuff.
 
 
 
-_Github Stats_
 
 
 
@@ -18,7 +17,6 @@ _Github Stats_
 
 
 
-_Weekly Coding Stats_
 
 
 
@@ -27,4 +25,3 @@ _Weekly Coding Stats_
 
 
 
-_Top Languages on GitHub_
