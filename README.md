@@ -13,8 +13,7 @@ I do much stuff. I do stuff here, and on my [sourcehut](https://sr.ht/~iwanidev/
 
 
 
-[![IwanIDev's wakatime stats]([https://github-readme-stats.vercel.app/api/wakatime?username=IwanIDev](https://github-readme-stats.vercel.app/api/wakatime?username=IwanIDev&theme=gruvbox&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
-
+[![IwanIDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IwanIDev&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
