@@ -3,7 +3,7 @@ I do stuff.
 
 <!--START_SECTION:waka-->
 
-```txt
+```python
 From: 02 January 2021 - To: 30 July 2025
 
 Total Time: 51 hrs 9 mins
