@@ -22,4 +22,5 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           LANG_COUNT: 10
+          CODE_LANG: python
 
