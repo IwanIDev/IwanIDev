@@ -26,5 +26,5 @@ jobs:
           SHOW_TOTAL: true
           LANG_COUNT: 5
           CODE_LANG: python
-          COMMIT_MESSAGE: "${{NOW}} Update WakaTime stats"
+          COMMIT_MESSAGE: "${{env.NOW}} Update WakaTime stats"
 
