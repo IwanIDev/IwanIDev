@@ -4,15 +4,15 @@ I do stuff.
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 January 2021 - To: 11 August 2025
+From: 02 January 2021 - To: 12 August 2025
 
-Total Time: 65 hrs 32 mins
+Total Time: 72 hrs 23 mins
 
-Java                  31 hrs 37 mins  >>>>>>>>>>>>-------------   47.96 %
-C++                   14 hrs 20 mins  >>>>>--------------------   21.75 %
-Python                5 hrs 2 mins    >>-----------------------   07.64 %
-Groovy                4 hrs 46 mins   >>-----------------------   07.24 %
-YAML                  2 hrs 4 mins    >------------------------   03.14 %
+Java                  31 hrs 37 mins  >>>>>>>>>>>--------------   43.45 %
+C++                   21 hrs 6 mins   >>>>>>>------------------   29.00 %
+Python                5 hrs 2 mins    >>-----------------------   06.92 %
+Groovy                4 hrs 46 mins   >>-----------------------   06.56 %
+YAML                  2 hrs 4 mins    >------------------------   02.84 %
 ```
 
 <!--END_SECTION:waka-->
