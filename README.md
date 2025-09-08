@@ -4,7 +4,7 @@ I do stuff.
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 January 2021 - To: 05 September 2025
+From: 02 January 2021 - To: 06 September 2025
 
 Total Time: 95 hrs 31 mins
 
