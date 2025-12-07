@@ -1,5 +1,5 @@
-### Hi there 👋
-I do stuff.
+### Hiya there 👋
+I do stuff in Java, C, C++, Python, amongst others.
 
 <!--START_SECTION:waka-->
 
