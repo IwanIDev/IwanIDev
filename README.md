@@ -4,15 +4,15 @@ I do stuff in Java, C, C++, Python, amongst others.
 <!--START_SECTION:waka-->
 
 ```python
-From: 07 January 2025 - To: 06 January 2026
+From: 08 January 2025 - To: 07 January 2026
 
-Total Time: 84 hrs 2 mins
+Total Time: 84 hrs 46 mins
 
-C++               57 hrs 7 mins   >>>>>>>>>>>>>>>>>--------   67.66 %
-Java              19 hrs 19 mins  >>>>>>-------------------   22.89 %
-PlantUML          2 hrs 51 mins   >------------------------   03.38 %
-E-mail            1 hr 18 mins    -------------------------   01.56 %
-conf              46 mins         -------------------------   00.91 %
+C++               57 hrs 7 mins   >>>>>>>>>>>>>>>>>--------   67.08 %
+Java              19 hrs 45 mins  >>>>>>-------------------   23.21 %
+PlantUML          3 hrs 9 mins    >------------------------   03.70 %
+E-mail            1 hr 18 mins    -------------------------   01.54 %
+conf              46 mins         -------------------------   00.90 %
 ```
 
 <!--END_SECTION:waka-->
