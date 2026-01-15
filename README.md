@@ -4,7 +4,7 @@ I do stuff in Java, C, C++, Python, amongst others.
 <!--START_SECTION:waka-->
 
 ```python
-From: 13 January 2025 - To: 12 January 2026
+From: 14 January 2025 - To: 13 January 2026
 
 Total Time: 85 hrs 9 mins
 
