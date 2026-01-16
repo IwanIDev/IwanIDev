@@ -9,7 +9,7 @@ I do stuff in Java, C, C++, Python, amongst others.
 
 - [C HTTP Server](https://github.com/iwanidev/c-http-server) - A simple HTTP server implemented in C.
 
-- [Personal Website](https://github.com/iwanidev/personal-portfolio-website) - My personal website build with Pelican SSG, using Tailwind CSS for styling.
+- [Personal Website](https://github.com/iwanidev/personal-portfolio-site) - My personal website build with Pelican SSG, using Tailwind CSS for styling.
 
 <!--START_SECTION:waka-->
 
