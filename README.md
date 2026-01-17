@@ -11,6 +11,8 @@ I do stuff in Java, C, C++, Python, amongst others.
 
 - [Personal Website](https://github.com/iwanidev/personal-portfolio-site) - My personal website build with Pelican SSG, using Tailwind CSS for styling.
 
+### Coding Activity (Last 12 Months)
+
 <!--START_SECTION:waka-->
 
 ```python
