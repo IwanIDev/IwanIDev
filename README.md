@@ -16,15 +16,13 @@ I do stuff in Java, C, C++, Python, amongst others.
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 January 2025 - To: 20 January 2026
+From: 22 January 2025 - To: 21 January 2026
 
-Total Time: 88 hrs 37 mins
-
-C++               57 hrs 7 mins   >>>>>>>>>>>>>>>>---------   64.18 %
-Java              19 hrs 49 mins  >>>>>>-------------------   22.28 %
-Kotlin            3 hrs 10 mins   >------------------------   03.57 %
-PlantUML          3 hrs 9 mins    >------------------------   03.54 %
-E-mail            1 hr 36 mins    -------------------------   01.80 %
+C++                               ███████████████▓░░░░░░░░░   62.05 %
+Java                              █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
+Kotlin                            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+PlantUML                          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+E-mail                            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
