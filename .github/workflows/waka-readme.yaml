@@ -20,10 +20,10 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true 
           SECTION_NAME: waka
-          BLOCKS: ->
+          BLOCKS: ░▒▓█
           TIME_RANGE: last_year
-          SHOW_TIME: true
-          SHOW_TOTAL: true
+          SHOW_TIME: false 
+          SHOW_TOTAL: false 
           LANG_COUNT: 5
           CODE_LANG: python
           COMMIT_MESSAGE: "${{env.NOW}} Update WakaTime stats"
