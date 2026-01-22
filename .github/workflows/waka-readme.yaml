@@ -20,7 +20,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true 
           SECTION_NAME: waka
-          BLOCKS: ░▒▓█
+          BLOCKS: =>
           TIME_RANGE: last_year
           SHOW_TIME: false 
           SHOW_TOTAL: false 
