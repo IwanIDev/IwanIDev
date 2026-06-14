@@ -16,7 +16,7 @@ I do stuff in Java, C, C++, Python, amongst others.
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 June 2025 - To: 12 June 2026
+From: 13 June 2025 - To: 13 June 2026
 
 C++                                              >>>>>>>>>>---------------   39.55 %
 Java                                             >>>----------------------   13.74 %
