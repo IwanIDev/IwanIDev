@@ -1,6 +1,9 @@
 ## Hiya there 👋
 I do stuff in Java, C, C++, Python, amongst others.
 
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,js,ts,java,kotlin,matlab,python,react,vue,&theme=light)](https://skillicons.dev)
+
 ### Projects
 
 - [Lego Arduino Train](https://github.com/iwanidev/lego-arduino-train) - An Arduino library for controlling and automating LEGO Powered Up trains.
