@@ -21,7 +21,7 @@ jobs:
           BLOCKS: ->
           TIME_RANGE: last_year
           SHOW_TIME: false 
-          SHOW_TOTAL: false 
+          SHOW_TOTAL: true 
           LANG_COUNT: 5
           CODE_LANG: python
           COMMIT_MESSAGE: "${{env.NOW}} Update WakaTime stats"
