@@ -21,6 +21,8 @@ I do stuff in Java, C, C++, Python, amongst others.
 ```python
 From: 01 September 2025 - To: 01 September 2026
 
+Total Time: 108 hrs 17 mins
+
 Java                                             >>>>>--------------------   18.31 %
 C++                                              >>>>---------------------   15.97 %
 Python                                           >>>>---------------------   14.70 %
