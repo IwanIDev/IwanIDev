@@ -19,15 +19,15 @@ I do stuff in Java, C, C++, Python, amongst others.
 <!--START_SECTION:waka-->
 
 ```python
-From: 23 September 2025 - To: 23 September 2026
+From: 24 September 2025 - To: 24 September 2026
 
-Total Time: 95 hrs 6 mins
+Total Time: 93 hrs 36 mins
 
-Java                                             >>>>>--------------------   20.82 %
-Python                                           >>>>---------------------   16.72 %
-TeX                                              >>-----------------------   08.37 %
-Kotlin                                           >>-----------------------   07.94 %
-Astro                                            >>-----------------------   06.29 %
+Java                                             >>>>>--------------------   21.15 %
+Python                                           >>>>---------------------   16.98 %
+TeX                                              >>-----------------------   08.50 %
+Kotlin                                           >>-----------------------   08.06 %
+Astro                                            >>-----------------------   06.39 %
 ```
 
 <!--END_SECTION:waka-->
