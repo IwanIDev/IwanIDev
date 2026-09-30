@@ -14,8 +14,7 @@ I do stuff in Java, C, C++, Python, amongst others.
 
 - [Personal Blog Site](https://github.com/iwanidev/astro-blog-site) - A fairly simple blog site build with Astro and Tailwind CSS.
 
-### Coding Activity (Last 12 Months)
-
+### Coding Activity
 <!--START_SECTION:waka-->
 
 ```python
