@@ -25,4 +25,5 @@ jobs:
           LANG_COUNT: 5
           CODE_LANG: python
           COMMIT_MESSAGE: "${{env.NOW}} Update WakaTime stats"
+          IGNORED_LANGUAGES: "Binary YAML JSON TOML Markdown"
 
