@@ -18,15 +18,15 @@ I do stuff in Java, C, C++, Python, amongst others.
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 January 2021 - To: 07 November 2026
+From: 02 January 2021 - To: 15 November 2026
 
-Total Time: 211 hrs 8 mins
+Total Time: 219 hrs 19 mins
 
-C++                                              ███████░░░░░░░░░░░░░░░░░░   27.87 %
-Java                                             ██████▒░░░░░░░░░░░░░░░░░░   25.48 %
-Python                                           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Kotlin                                           █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Astro                                            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Java                                             ███████░░░░░░░░░░░░░░░░░░   27.90 %
+C++                                              ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
+Python                                           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+Kotlin                                           █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Astro                                            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 ```
 
 <!--END_SECTION:waka-->
